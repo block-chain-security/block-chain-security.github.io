@@ -7,7 +7,7 @@ permalink: /
 
 <ul class="triptych situations clearfix">
   <li>
-    <a href="https://github.com/ligi">
+    <a href="https://github.com/blockchainsecure">
       <img src="assets/img/github.png" alt="github"/>
       <h3>GitHub</h3>
     </a>
@@ -28,7 +28,7 @@ permalink: /
 </ul>
 <ul class="triptych situations clearfix">
   <li>
-    <a href="http://twitter.com/mr_ligi">
+    <a href="http://twitter.com/baimaosecurity">
       <img src="assets/img/twitter.png" alt="twitter"/>
       <h3>Twitter</h3>
     </a>
@@ -42,7 +42,7 @@ permalink: /
   </li>
 
   <li>
-    <a href="mailto:ligi@ligi.de">
+    <a href="mailto:block@baimaosec.com">
       <img src="assets/img/mail.png" alt="plus"/>
       <h3>Mail</h3>
     </a>
