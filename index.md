@@ -1,7 +1,7 @@
 ---
 layout: default
 class: home
-title: ligi
+title: www.baimaosec.com
 permalink: /
 ---
 
