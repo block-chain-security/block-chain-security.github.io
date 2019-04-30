@@ -3,7 +3,7 @@ title: ligi
 description: this is ligi's landing page with links to github, .. 
 relative_permalinks: false
 markdown: kramdown
-url: "https://ligi.de"
+url: "https://www.baimaosec.com"
 
 exclude:
   - app.coffee
