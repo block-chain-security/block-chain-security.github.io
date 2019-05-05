@@ -7,7 +7,7 @@ permalink: /
 
 <ul class="triptych situations clearfix">
   <li>
-    <a href="https://github.com/blockchainsecure">
+    <a href="https://github.com/ligi">
       <img src="assets/img/github.png" alt="github"/>
       <h3>GitHub</h3>
     </a>
@@ -28,7 +28,7 @@ permalink: /
 </ul>
 <ul class="triptych situations clearfix">
   <li>
-    <a href="http://twitter.com/baimaosecurity">
+    <a href="http://twitter.com/ligi">
       <img src="assets/img/twitter.png" alt="twitter"/>
       <h3>Twitter</h3>
     </a>
