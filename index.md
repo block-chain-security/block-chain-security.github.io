@@ -74,5 +74,5 @@ permalink: /
 
 </ul>
 
-Email ID: block <block@baimaosec.com> 粤公网安备44030702000343号|粤ICP备17008657号-1 
+<center>Email ID: block <block@baimaosec.com> 粤公网安备44030702000343号|粤ICP备17008657号-1 </center>
 
