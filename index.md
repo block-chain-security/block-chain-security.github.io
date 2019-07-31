@@ -74,5 +74,5 @@ permalink: /
 
 </ul>
 
-PGP ID: block <block@baimaosec.com> FINGERPRINT: 53B5 C40A E537 B4EF E360 B4F9 8AB8 7EE9 D20F 76AB
+Email ID: block <block@baimaosec.com> 粤公网安备44030702000343号|粤ICP备17008657号-1 
 
