@@ -7,7 +7,7 @@ permalink: /
 
 <ul class="triptych situations clearfix">
   <li>
-    <a href="https://github.com/ligi">
+    <a href="https://github.com/blockchainguard">
       <img src="assets/img/github.png" alt="github"/>
       <h3>GitHub</h3>
     </a>
@@ -74,5 +74,5 @@ permalink: /
 
 </ul>
 
-<center>Email ID: block <block@baimaosec.com> 粤公网安备44030702000343号|粤ICP备17008657号-1 </center>
+<center>Email ID: block <block@baimaosec.com> 粤公网安备44030702000343号|<a href="http://beian.miit.gov.cn/">粤ICP备17008657号-1 </a></center>
 
